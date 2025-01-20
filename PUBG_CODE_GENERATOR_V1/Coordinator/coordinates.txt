@@ -1,0 +1,1 @@
+Coordinates will display here after running coordinate_finder.py
